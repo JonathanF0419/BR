@@ -60,7 +60,7 @@ h1 {
   0%{background: url(ACS_1.jpg) center;
     background-size: cover;}
   20%{background: url(ACS_2.jpg) center;
-  background-size: cover;}
+    background-size: cover;}
   40%{background: url(ACS_3.jpg) center;
     background-size: cover;}
   60%{background: url(ACS_4.jpg) center fixed;
